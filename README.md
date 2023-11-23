@@ -11,19 +11,19 @@ This is a simple login app built using React that allows users to log in with th
 
 1. Clone the repository:
 
-   ```bash
+   ```
    git clone https://github.com/your-username/login-app.git
    ```
 
 2. Navigate to the project directory:
 
-   ```bash
+   ```
    cd login-app
    ```
 
 3. Install dependencies:
 
-   ```bash
+   ```
    npm install
    ```
 
@@ -35,7 +35,7 @@ This is a simple login app built using React that allows users to log in with th
    npm start
    ```
 
-2. Access the app in your browser at `http://localhost:3000`.
+2. Access the app in your browser at `http://localhost:5173`.
 
 ![image](https://github.com/akifalbayrak/form-user-input/assets/142679378/ab3200ab-a708-45aa-8fbc-f1a84292889e)
 
